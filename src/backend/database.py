@@ -39,7 +39,13 @@ initial_activities = {
             "days": ["Monday", "Friday"],
             "start_time": "15:15",
             "end_time": "16:45"
+        }, "Manga Maniacs": {
+        "description": "Explore the fantastic storiesof the most interesting characters from Japanese Manga(graphic novels",
+        "schedule": "Tuesdays , 7 PM",
+        "max_participants": 15,
+            "participants": []
         },
+        
         "max_participants": 12,
         "participants": ["michael@mergington.edu", "daniel@mergington.edu"]
     },
