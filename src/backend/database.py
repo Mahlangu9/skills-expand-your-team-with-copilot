@@ -15,7 +15,7 @@ teachers_collection = db['teachers']
 def hash_password(password):
     """Hash password using Argon2"""
     ph = PasswordHasher()
-    return ph.hash(password)
+    return ph.hash(password)h
 
 def init_database():
     """Initialize database if empty"""
